@@ -6,7 +6,7 @@ La idea es simple: seleccionas a quién quieres seguir (o qué canal de voz quie
 
 ## Captura
 
-![Panel de AutoFollowVC](srcA/Captura%20de%20pantalla%202026-03-21%20003732.png)
+![Panel de AutoFollowVC](src/Captura%20de%20pantalla%202026-03-21%20003732.png)
 
 *(El panel flotante con el tema azul, tracking activo y configuraciones visibles)*
 
