@@ -1,4 +1,4 @@
-# AutoFollowVC — v3.0.0
+# AutoFollowVC — v4.0.0
 
 > Plugin de BetterDiscord para seguir automáticamente a usuarios a canales de voz. Configurable, rápido y con panel visual.
 
